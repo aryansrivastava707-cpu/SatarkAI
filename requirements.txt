@@ -1,0 +1,4 @@
+Flask==3.1.2
+gunicorn==23.0.0; platform_system != "Windows"
+scikit-learn==1.7.2
+joblib==1.5.2
